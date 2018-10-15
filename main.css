@@ -1,0 +1,9 @@
+.panel button.pull-right {
+    margin-right: 1em;
+}
+.panel button.pull-left {
+    margin-left: 1em;
+}
+textarea{
+    font-family: monospace;
+}
